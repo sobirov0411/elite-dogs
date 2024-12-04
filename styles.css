@@ -43,7 +43,7 @@ nav ul li a {
     padding: 8px 5px;
     border-radius: 4px;
     transition:  color 0.3s ease;
-    border: 1px solid #fd0f0f;
+    border-bottom: 1px solid #fd0f0f;
     margin: 3px;
 }
 

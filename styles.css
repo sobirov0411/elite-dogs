@@ -130,4 +130,5 @@ html {
     display: flex;
     padding: 0 20px;
     justify-content: space-around;
+    margin-bottom: 30px;
 }

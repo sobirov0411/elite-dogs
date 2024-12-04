@@ -45,6 +45,7 @@ nav ul li a {
     transition:  color 0.3s ease;
     border: 1px solid #fd0f0f;
     margin: 3px;
+    font-size: 9.4px;
 }
 
 nav ul li a:hover,

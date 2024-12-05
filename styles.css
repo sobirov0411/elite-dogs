@@ -112,6 +112,7 @@ footer {
     background-color: #1f1f1f;
     color: #e0e0e0;
     margin-top: 20px;
+    
 }
 footer a svg g:hover{
     fill: #fd0f0f;
@@ -131,4 +132,11 @@ html {
     padding: 0 20px;
     justify-content: space-around;
     margin-bottom: 30px;
+}
+
+.link{
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
